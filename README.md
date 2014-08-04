@@ -10,7 +10,7 @@ Make sure you are allowed to share the libraries !
 
 Usage
 -----
-`sh createArchive.sh my_executeable file2_my_executeable_needs file2_my_executeable_needs`
+`bash createArchive.sh my_executeable file2_my_executeable_needs file2_my_executeable_needs`
 
 How I use it
 -----
