@@ -2,7 +2,8 @@ koku-executable-bundler
 =======================
 
 Bundles a executable into a shell script and make it runnable on every linux system.
-It copies the libraries the executeable uses !
+
+*It copies the libraries the executeable uses !*
 
 If you want to shared the generated `shell-script`.
 Make sure you are allowed to share the libraries !
